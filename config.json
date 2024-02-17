@@ -1,0 +1,19 @@
+{
+    "prefix": ";",
+    "genChannel": "1207956331189903381",
+    "pgenChannel": "0000000000000000000",  
+    "servername" : "Exploit x",
+    "website": "https://discord.gg/ah525r8NP3",
+    "genCooldown": "120000",
+    "genCooldownsec": "300",
+    "color": {
+        "green": "0x57F287",
+        "yellow": "0xFEE75C",
+        "red": "0xED4245",
+        "default": "0x5865F2"
+    },
+    "command": {
+        "notfound_message": true,
+        "error_message": true
+    }
+}
